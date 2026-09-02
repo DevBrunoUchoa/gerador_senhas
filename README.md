@@ -1,5 +1,5 @@
 
-```markdown
+
 # Gerador de Senhas
 
 O **Gerador de Senhas** é uma aplicação Python desenvolvida com a biblioteca Tkinter, que permite ao usuário gerar senhas aleatórias de forma rápida e fácil. O usuário pode escolher o número de caracteres desejado, e a aplicação gera uma senha segura, contendo letras minúsculas, maiúsculas, números e caracteres especiais. Além disso, a senha gerada é copiada automaticamente para a área de transferência.
@@ -48,4 +48,3 @@ gerador_senhas/
 
 **Desenvolvido por Bruno Uchoa**  
 **Contato: jbt.contato@gmail.com**
-```
